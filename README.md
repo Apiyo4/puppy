@@ -1,1 +1,3 @@
 # puppy
+### Author
+Dennis Njogu
